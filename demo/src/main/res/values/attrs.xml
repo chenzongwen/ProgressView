@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="background_color" format="color" />
+    <attr name="foreground_color" format="color" />
+    <attr name="proportion" format="float" />
+    <attr name="start_position" format="float" />
+
+    <declare-styleable name="SectorProgressView">
+        <attr name="background_color" />
+        <attr name="foreground_color" />
+        <attr name="proportion" />
+        <attr name="start_position" />
+    </declare-styleable>
+
+
+    <declare-styleable name="RingProgressView">
+        <attr name="background_color" />
+        <attr name="fgColorStart" format="color" />
+        <attr name="fgColorEnd" format="color" />
+        <attr name="strokeWidth" format="dimension" />
+        <attr name="proportion" />
+        <attr name="start_position" />
+    </declare-styleable>
+
+
+
+
+</resources>
