@@ -7,17 +7,17 @@ one name sector view the other named ring view
 
 Demo
 ====
-[ Download demo.apk ](https://github.com/demo.apk)
+[ Download demo.apk ](https://github.com/chenzongwen/ProgressView.git/demo.apk)
 
 
 Author
-========
+===========
 
-- [Mail](zongwen.chen@qq.com)
-- [Blog](http://blog.csdn.net/owenchan1987)
+- [e-mail](zongwen.chen@qq.com)
+- [blog](http://blog.csdn.net/owenchan1987)
 
 License
-=======
+============
 
     Copyright 2016 Owen Chan
 
