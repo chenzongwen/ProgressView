@@ -7,7 +7,7 @@ one name sector view the other named ring view
 
 Demo
 ====
-[ Download demo.apk ](https://github.com/chenzongwen/ProgressView.git/demo.apk)
+[ Download demo.apk ](https://github.com/chenzongwen/ProgressView/blob/master/demo.apk)
 
 
 Author
